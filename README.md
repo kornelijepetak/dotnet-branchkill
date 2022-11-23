@@ -7,6 +7,13 @@ A quick cleanup of your git repository branches.
 **Requirements**
 ⚠ You need to have VS Code installed.
 
+**Installation**
+Just run 
+
+`dotnet tool install --global KornelijePetak.BranchKill`
+
+from the command line.
+
 **How to use?**
 * Position yourself in a git repository
 * Run `dotnet branchkill`
