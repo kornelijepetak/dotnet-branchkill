@@ -25,3 +25,9 @@ from the command line.
 **Alternative syntax**
 `dotnet branchkill path-to-repo`
 
+
+## Support my work
+
+If you find my work useful, consider buying me a drink.
+
+<a href="https://www.buymeacoffee.com/kornelijepetak"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a drink!&emoji=&slug=kornelijepetak&button_colour=007ecc&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
